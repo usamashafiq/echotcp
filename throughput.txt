@@ -1,0 +1,48 @@
+Throughput (bits/sec)= sum ((number of successful packets)+(average packet_size))/Total Time sent in delivering that amount of data
+
+test one time 
+11 packets 
+96 size
+time 0.000025
+
+Throughput = 4,280,000
+
+
+test two time 
+11 packets 
+107 size
+time 2.891704 
+Throughput=40.80638958897591
+
+test three time 
+14 packets 
+100 size
+time 0.174795
+Throughput=652.192568
+
+test four time 
+10 packets 
+102 size
+time 0.183957
+
+Throughput=608.837934
+
+test five time
+10 packets
+103.25 size
+time 0.000057
+
+Throughput=1,986,842.10
+
+test six time
+10 packets
+118.25 size
+time 0.000284
+Throughput=451,584.507042
+
+test seven time
+9 packets
+106 size
+time 0.000015
+Throughput=7,666,666.6666
+

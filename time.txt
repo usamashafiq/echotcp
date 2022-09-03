@@ -1,0 +1,20 @@
+round one time
+Decimal('0.000025') size is 35 bytes
+
+round secound time
+Decimal('2.891704')  size is 39 bytes
+
+round third time
+Decimal('0.174795')  size is 41 bytes
+ 
+round secound time
+Decimal('0.183957')  size is 40 bytes
+
+round secound time
+Decimal('0.000057')  size is 47 bytes
+
+round secound time
+Decimal('0.000284')  size is 50 bytes
+
+round secound time
+Decimal('0.000015')  size is 53 bytes
